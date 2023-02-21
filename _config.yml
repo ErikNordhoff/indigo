@@ -1,9 +1,9 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Erik Nordhoff
+bio: ITler im Dienstleistungsbereich
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: 
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://eriknordhoff.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -39,7 +39,7 @@ twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
-email: myemail@gmail.com
+email: eri@nordhoff.it
 
 authors:
   johndoe:
